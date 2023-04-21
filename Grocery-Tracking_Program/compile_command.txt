@@ -1,0 +1,2 @@
+c++ -Wall main.cpp ItemFrequency.cpp -o prog
+
